@@ -5,6 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+  - name: 收支星球
+    url: https://szxq.top
+  - name: 咿呀呀
+    url: https://yiyayo.top
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News

@@ -4,9 +4,9 @@
     "url": "https://szxq.top",
     "icon": "https://icons.duckduckgo.com/ip3/szxq.top.ico",
     "slug": "收支星球",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1032,
     "timeMonth": 1032,
     "timeYear": 1032,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-02": 0
+    }
   },
   {
     "name": "咿呀呀",

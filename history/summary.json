@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/szxq.top.ico",
     "slug": "收支星球",
     "status": "down",
-    "uptime": "97.83%",
-    "uptimeDay": "92.07%",
-    "uptimeWeek": "96.65%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "97.83%",
+    "uptime": "96.49%",
+    "uptimeDay": "77.04%",
+    "uptimeWeek": "94.51%",
+    "uptimeMonth": "96.49%",
+    "uptimeYear": "96.49%",
     "time": 958,
     "timeDay": 673,
     "timeWeek": 910,
@@ -17,7 +17,8 @@
     "timeYear": 958,
     "dailyMinutesDown": {
       "2026-06-02": 223,
-      "2026-06-07": 114
+      "2026-06-07": 114,
+      "2026-06-08": 216
     }
   },
   {

@@ -4,21 +4,21 @@
     "url": "https://szxq.top",
     "icon": "https://icons.duckduckgo.com/ip3/szxq.top.ico",
     "slug": "收支星球",
-    "status": "down",
-    "uptime": "96.49%",
-    "uptimeDay": "77.04%",
-    "uptimeWeek": "94.51%",
-    "uptimeMonth": "96.49%",
-    "uptimeYear": "96.49%",
-    "time": 958,
-    "timeDay": 673,
-    "timeWeek": 910,
-    "timeMonth": 958,
-    "timeYear": 958,
+    "status": "up",
+    "uptime": "96.01%",
+    "uptimeDay": "71.59%",
+    "uptimeWeek": "93.73%",
+    "uptimeMonth": "96.01%",
+    "uptimeYear": "96.01%",
+    "time": 939,
+    "timeDay": 678,
+    "timeWeek": 885,
+    "timeMonth": 939,
+    "timeYear": 939,
     "dailyMinutesDown": {
       "2026-06-02": 223,
       "2026-06-07": 114,
-      "2026-06-08": 216
+      "2026-06-08": 295
     }
   },
   {
